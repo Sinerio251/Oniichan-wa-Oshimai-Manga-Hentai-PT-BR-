@@ -5,11 +5,19 @@ async function getMangaDetails(mangaId) {
        chapters: [
          {
            id: "Capítulo 01",
-           title: "Capítulo 1",
-           date: "2024-01-01",
+           title: "Capítulo 01",
+           date: "2025-04-25",
            urls: [
-             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Cap%C3%ADtulo%2001/image_01.jpg",
-             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Cap%C3%ADtulo%2001/image_02.jpg"
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_01.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_02.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_03.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_04.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_05.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_06.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_07.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_08.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_09.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_10.jpg", 
            ]
          }
        ]

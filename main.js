@@ -8,8 +8,8 @@ async function getMangaDetails(mangaId) {
            title: "Capítulo 1",
            date: "2024-01-01",
            urls: [
-             "cap1/pagina1.jpg",
-             "cap1/pagina2.jpg"
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Cap%C3%ADtulo%2001/image_01.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Cap%C3%ADtulo%2001/image_02.jpg"
            ]
          }
        ]

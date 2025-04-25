@@ -22,7 +22,8 @@ async function getMangaDetails(mangaId) {
              "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_12.jpg",
              "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_13.jpg",
              "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_14.jpg",
-             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_15.jpg", 
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_15.jpg",
+             "https://github.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/blob/main/Capítulo 01/image_16.jpg" 
            ]
          }
        ]

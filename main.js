@@ -1,7 +1,7 @@
 async function getMangaDetails(mangaId) {
      return {
        title: "Oniichan-wa-Oshimai-Manga-Hentai-PT-BR",
-       author: "Seu Nome",
+       author: "Unknow",
        chapters: [
          {
            id: "Capítulo 01",
